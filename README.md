@@ -36,7 +36,7 @@ The solution integrates multiple datasets connected to PowerBI via google sheets
 | Dataset                         | Description                                       |
 | ------------------------------- | ------------------------------------------------- |
 | **Electricity_Consumption.csv** | kWh usage by customer, month, meter type, region  |
-| **Revenue_Billing.csv**         | Amount billed, amount paid, outstanding revenue   |
+| **Billing_Payment.csv**         | Amount billed, amount paid, outstanding revenue   |
 
 ---
 
