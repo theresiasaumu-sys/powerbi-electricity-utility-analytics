@@ -9,7 +9,7 @@ This repository contains:
 * **Electricity_Utility_Analytics.pbix** – Main Power BI project file
 * **/screenshots** – Visual screenshots of dashboards and report pages 
 * **Project Question Set (Basic → Highly Technical)**
-* **Project Write-up for Research Questions**
+* **Project Slides for Research Questions**
 * **LinkedIn write-up included for context**
 
 ---
