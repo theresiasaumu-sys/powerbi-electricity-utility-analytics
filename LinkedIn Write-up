@@ -1,0 +1,42 @@
+𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 𝗖𝗮𝗽𝘀𝘁𝗼𝗻𝗲: 𝗘𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲-𝗚𝗿𝗮𝗱𝗲 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗳𝗼𝗿 𝗘𝗹𝗲𝗰𝘁𝗿𝗶𝗰𝗶𝘁𝘆 𝗨𝘁𝗶𝗹𝗶𝘁𝘆 𝗥𝗲𝘃𝗲𝗻𝘂𝗲 𝗥𝗲𝗰𝗼𝘃𝗲𝗿𝘆
+
+Just completed a comprehensive Power BI capstone project that pushed beyond foundational dashboards into real business analytics and problem-solving.
+
+𝗧𝗵𝗲 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲:
+Analyze electricity consumption and revenue recovery patterns for a utility company managing 5,000+ customers. Management suspected postpaid customers in the South region were responsible for poor revenue recovery. Our task: validate or disprove this claim using data-driven analysis.
+
+𝗗𝗮𝘁𝗮 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 & 𝗠𝗼𝗱𝗲𝗹𝗶𝗻𝗴:
+  • Established relational data model across consumption and billing datasets with proper table relationships for query optimization
+  • Designed custom DAX measures for recovery rates, outstanding revenue calculations, and payment distributions
+
+𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀:
+  • Rolling 3-month averages, YTD revenue tracking, and monthly growth calculations
+  • What-If parameters to simulate ±10% tariff rate changes with live revenue impact modeling
+  • Conditional formatting to flag underperforming recovery rates
+  • Drill-through pages enabling granular customer-level analysis
+  • Bookmark navigation for multiple view states
+
+𝗘𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
+  • Row-Level Security (RLS) for role-based data access
+  • Q&A visuals for natural language queries
+  • Published to Power BI Service for stakeholder access
+  • Established incremental refresh policies for the datasets
+
+We also researched advanced enterprise requirements (𝘎𝘢𝘵𝘦𝘸𝘢𝘺 𝘤𝘰𝘯𝘧𝘪𝘨𝘶𝘳𝘢𝘵𝘪𝘰𝘯, 𝘗𝘰𝘸𝘦𝘳𝘈𝘱𝘱𝘴 𝘪𝘯𝘵𝘦𝘨𝘳𝘢𝘵𝘪𝘰𝘯, 𝘢𝘶𝘵𝘰𝘮𝘢𝘵𝘦𝘥 𝘥𝘢𝘵𝘢 𝘪𝘯𝘨𝘦𝘴𝘵𝘪𝘰𝘯 𝘷𝘪𝘢 𝘗𝘰𝘸𝘦𝘳 𝘈𝘶𝘵𝘰𝘮𝘢𝘵𝘦/𝘈𝘋𝘍) to understand deployment architecture.
+
+𝗧𝗵𝗲 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀:
+The data disproved management's hypothesis. Postpaid customers showed 81.95% recovery versus prepaid at 82.00%. The actual driver: prepaid customers represented ₦1.04M (65.44%) of outstanding revenue. We recommended implementing an automated follow-up system targeting this segment.
+
+𝗠𝘆 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻:
+I was involved throughout project development, handled final integration and collation of all components, and presented the enterprise-grade technical features to our cohort.
+
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝗰𝗼𝗽𝗲:
+  • 8 interconnected dashboard pages
+  • 15+ custom DAX measures
+  • 30+ data visualizations
+
+This project reinforced that effective analytics requires both technical execution and business thinking. You can build sophisticated dashboards, but if you're solving the wrong problem or misinterpreting the data narrative, the technical work doesn't matter.
+
+Grateful to my teammates for the collaborative effort. Thank you Tech4Dev and Omolola Oyedeji for equipping us with the skills to complete this capstone.
+
+#PowerBI #DataAnalytics #BusinessIntelligence #DataVisualization #Tech4Dev
