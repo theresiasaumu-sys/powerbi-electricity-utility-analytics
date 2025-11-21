@@ -7,7 +7,7 @@
 This repository contains:
 
 * **Electricity_Utility_Analytics.pbix** – Main Power BI project file
-* **/screenshots** – Visual screenshots of dashboards and report pages *(add yours after uploading)*
+* **/screenshots** – Visual screenshots of dashboards and report pages 
 * **Project Question Set (Basic → Highly Technical)**
 * **Project Write-up for Research Questions**
 * **LinkedIn write-up included for context**
@@ -31,15 +31,12 @@ The report includes:
 
 # 🧱 Data Architecture & Modeling
 
-The solution integrates multiple datasets:
+The solution integrates multiple datasets connected to PowerBI via google sheets:
 
 | Dataset                         | Description                                       |
 | ------------------------------- | ------------------------------------------------- |
 | **Electricity_Consumption.csv** | kWh usage by customer, month, meter type, region  |
 | **Revenue_Billing.csv**         | Amount billed, amount paid, outstanding revenue   |
-| **Customer_Metadata.csv**       | Customer type, location, meter type, tariff class |
-
-A star-schema relational model was built using **CustomerID** and **Month** as core keys.
 
 ---
 
