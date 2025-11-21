@@ -140,14 +140,19 @@ Implement an automated follow-up system targeted at **prepaid customers**, since
 ---
 
 # 🖼️ Screenshots
-(TODO UPDATE)
 
 ```
 /screenshots
-  ├── dashboard_overview.png
-  ├── revenue_recovery_page.png
-  ├── drillthrough_customer_view.png
-  ├── what_if_parameter_simulation.png
+  ├── Fundamentals.png
+  ├── Data Modelling.png
+  ├── Perfomance Modelling and Storytelling 1.png
+  ├── Perfomance Modelling and Storytelling 2.png
+  ├── Customer Drill Through.png
+  ├── Bookmark Revenue.png
+  ├── Bookmark Consumption.png
+  ├── Technical.png
+  ├── Capstone.png
+  ├── Capstone Insights.png
 ```
 
 ---
